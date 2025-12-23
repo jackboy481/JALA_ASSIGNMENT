@@ -25,5 +25,5 @@ This repository contains Python programs created as part of programming assignme
 - VS Code / PyCharm
 - GitHub
 
-## 📂 Project Structure
+
 
